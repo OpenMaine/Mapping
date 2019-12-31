@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+	"properties": {
+		"name": "Portland City Hall"
+	},
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+			43.659287,
+			-70.257277
+		]
+  }
+}
